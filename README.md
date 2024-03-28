@@ -1,3 +1,4 @@
+<img align="center" width="100%"  alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h1 align="center">Hi 👋, I'm Kunal Hirawat</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
@@ -25,3 +26,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kunal-Hirawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Hirawat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Hirawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img align="center" width="100%"  alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
